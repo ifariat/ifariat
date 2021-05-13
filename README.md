@@ -2,7 +2,7 @@
 
 Hi, 
 
-my name is Ibrahim fariat, I'm passionate about the combination of design and code for the creation of immersive experiences.
+my name is Ibrahim fariat, I'm passionate about combining design and code to create immersive visual experiences.
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/fariato/badges/large)
 
