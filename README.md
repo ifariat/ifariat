@@ -1,8 +1,8 @@
-
+333
 
 Hi, 
 
-my name is Ibrahim fariat, I'm passionate about combining design and code to create immersive visual experiences.
+my name is Ibrahim fariat, i have a passion for learning and studying new topics.
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/fariato/badges/large)
 
