@@ -1,7 +1,7 @@
 
-Hi, 
-
-my name is Ibrahim fariat, i have a passion for learning and studying new topics.
+Hello there!
+My name is Ibrahim, I'm a front-end developer with a design background.
+I love learning new things and experimenting, in addition to that, for each project I work on, writing clean and readable code is always a priority.
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/fariato/badges/large)
 
